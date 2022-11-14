@@ -2,25 +2,25 @@
     font-family: "Shrikhand", cursive;
     font-weight: unset;
     text-align: center;
-    font-size: 2rem;
+    font-size: 32px;
     margin: 0;
-    padding: 0.3rem;
+    padding: 4.8px;
     box-shadow: 0 0 0.5rem rgb(92, 92, 92);
     margin-bottom: 3px;
   }
   
   .city {
-    padding: 1rem;
+    padding: 16Px;
     background-color: #e3e3e3;
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 16px;
     & input {
       text-align: center;
       font-weight: bold;
       border: none;
       background-color: #e3e3e3;
-      font-size: 1rem;
+      font-size: 16px;
       margin: 0;
     }
   }
