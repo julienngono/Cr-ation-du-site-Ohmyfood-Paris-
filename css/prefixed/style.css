@@ -41,6 +41,7 @@ a {
   background-color: #e3e3e3;
   font-size: 16px;
   margin: 0;
+  width:100%
 }
 .info {
   display: -webkit-box;
@@ -162,6 +163,15 @@ a {
   padding-top: 48px;
   margin-top: 64px;
   margin-bottom: 16px;
+}
+.fonctionnement h2 {
+  width:100%
+  /*
+  padding-left: 5%;
+  padding-top: 48px;
+  margin-top: 64px;
+  margin-bottom: 16px;
+  font-size:25px */
 }
 .restaurants h3,
 .restaurants p {
