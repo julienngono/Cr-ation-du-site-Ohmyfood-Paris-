@@ -494,7 +494,7 @@ a {
   border-radius: 15px;
   flex-direction: row;
   cursor: pointer;
-  overflow: hidden,
+  overflow: hidden;
 }
 @media (max-width: 995px) {
   .menu--grid .commande {
@@ -731,7 +731,7 @@ a {
   background-image: linear-gradient(to bottom, #9356dc, #ff79da);
   height: 100%;
   width: 100%;
-  line-height: 800px;
+  line-height: 2000px;
   font-size: 40px;
   color: #ffff;
   text-align: center;
@@ -754,7 +754,7 @@ a {
   width: 10px;
   height: 30px;
   background-color: white;
-  animation: grow 1s linear infinite;
+  animation: grow 2s linear infinite;
 }
 .loader-bars:after {
   content: "";
