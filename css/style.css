@@ -569,7 +569,7 @@ a {
 .menu--grid .commande .items {
   padding-left: 5%;
   display: flex;
-  width: 224px;
+  width:60%;
   flex-direction: column;
   justify-content: space-around;
 }
@@ -581,8 +581,8 @@ a {
 }
 @media (max-width: 995px) {
   .menu--grid .commande .items {
-    width: 224px;
-    right: 96px;
+    width: 60%;
+    /*right: 96px;*/
   }
 }
 @media (max-width: 768px) {
