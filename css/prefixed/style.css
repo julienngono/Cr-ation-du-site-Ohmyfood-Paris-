@@ -518,7 +518,7 @@ a {
 .menu--header i {
   position: absolute;
   font-size: 32px;
-  right: 56px;
+  right:20px;
   top: 30%;
 }
 .menu--header .fas {
